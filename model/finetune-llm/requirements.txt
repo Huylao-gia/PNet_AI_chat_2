@@ -1,0 +1,14 @@
+# --- Data Engineering & EDA ---
+pandas
+matplotlib
+seaborn
+regex
+
+# --- Knowledge Distillation ---
+openai              # Dùng gọi API GPT-4 hoặc model tương thích OpenAI
+anthropic           # (Tùy chọn) Nếu dùng Claude 3 làm Teacher
+tqdm                # Thanh tiến trình (Progress bar)
+
+# --- Thư viện hệ thống & Tiện ích ---
+python-dotenv       # Quản lý biến môi trường .env
+pydantic            # Validation cấu trúc dữ liệu JSON
